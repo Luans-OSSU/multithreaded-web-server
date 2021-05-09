@@ -1,5 +1,5 @@
 [package]
-name = "multithread-web-server"
+name = "MWS"
 version = "0.1.0"
 authors = ["danite <luansnain@gmail.com>"]
 edition = "2018"
